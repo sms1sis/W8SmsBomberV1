@@ -75,6 +75,7 @@ git clone https://github.com/W8SOJIB/W8SmsBomberV1
 cd W8SmsBomberV1
 
 # Install dependencies
+pkg install python-psutil
 pip install -r requirements.txt
 
 # Run the bomber
